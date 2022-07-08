@@ -1,2 +1,2 @@
 This is a devonly
-Test for Garate
+Test for int
