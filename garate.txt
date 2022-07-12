@@ -4,3 +4,4 @@ integration of influxdb
 instrumeneting grafana 
 datasource integration
 configuing dashboard
+dmo for Telus
